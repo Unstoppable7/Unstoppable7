@@ -2,9 +2,9 @@
 <h3 align="center">In the world of technology and computer science since 2014, software developer but I can do anything.</h3>
 <br/>
 
-- 👨‍💻 All of my projects are available at [portfolio](www.com)
+- 👾 I have participated in the development of these videogames [itch.io](https://cristian-rosales.itch.io/)
 
-- 📄 Know about my experiences [resume](www.com)
+- 📄 Know about my experiences [resume](https://1drv.ms/b/s!Ak1wNAbHaGaNgp4Dpr_Gzoo6JvbaQA?e=yYd5Xd)
 
 - 📫 How to reach me **alejandro7120@gmail.com**
 
