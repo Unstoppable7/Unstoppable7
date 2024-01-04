@@ -4,7 +4,7 @@
 
 - 👾 I have participated in the development of these videogames [itch.io](https://cristian-rosales.itch.io/)
 
-- 📄 Know about my experiences [resume](https://1drv.ms/b/s!Ak1wNAbHaGaNgp4MWq-WwzYbL-PVkA?e=L7pw5f)
+- 📄 Know about my experiences [resume](https://1drv.ms/b/s!Ak1wNAbHaGaNgqVGdPcobU6MoxW3YQ?e=r9N4QV)
 
 - 📫 How to reach me **alejandro7120@gmail.com**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Backend Development</h3>
 
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/> </a>
 
 <h3 align="left">Database</h3>
 
