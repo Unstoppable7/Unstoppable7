@@ -4,7 +4,7 @@
 
 - 👾 I have participated in the development of these videogames [itch.io](https://cristian-rosales.itch.io/)
 
-- 📄 Know about my experiences [resume](https://1drv.ms/b/s!Ak1wNAbHaGaNgqVGdPcobU6MoxW3YQ?e=r9N4QV)
+- 📄 Know about my experiences [resume](https://1drv.ms/b/s!Ak1wNAbHaGaNgqcf92uscLS1bty8Ig?e=gwfEgW)
 
 - 📫 How to reach me **alejandro7120@gmail.com**
 
