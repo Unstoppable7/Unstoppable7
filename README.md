@@ -24,7 +24,7 @@
 
 <h3 align="left">Backend Development</h3>
 
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/> </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
 
 <h3 align="left">Database</h3>
 
@@ -48,11 +48,7 @@
 
 <br/>
 
-<h2 align="left"> <a href="" target="_blank" rel="noreferrer"> Cristian Rosales </a> </h2>
-
 <p align="left">
 <a href="https://instagram.com/cristianrch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristianrch" height="30" width="40" /></a> <a href="https://twitter.com/cristianrch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cristianrch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cristian-rosales-604962b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-rosales-604962b1" height="30" width="40" /></a>
 </p>
-
-![Made with love in Venezuela](https://madewithlove.now.sh/ve?heart=true&colorB=%230062ff&template=for-the-badge)
